@@ -1,6 +1,6 @@
 {
   "description": "InfoCell Get Towers by dkxce (https://github.com/dkxce)",
-  "manifest_version": 2, "name": "InfoCell Get Towers", "version": "1.1",
+  "manifest_version": 2, "name": "InfoCell Get Towers", "version": "1.2",
   "homepage_url": "https://github.com/dkxce/InfoCellGetTowers",
   "permissions": ["webRequest", "webRequestBlocking", "https://infocelltowers.ru/*", "http://infocelltowers.ru/*"],
   "background": {"scripts": ["background.js"]},
