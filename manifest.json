@@ -1,8 +1,11 @@
 {
   "description": "InfoCell Get Towers by dkxce (https://github.com/dkxce)",
-  "manifest_version": 2, "name": "InfoCell Get Towers", "version": "1.0",
+  "manifest_version": 2, "name": "InfoCell Get Towers", "version": "1.1",
   "homepage_url": "https://github.com/dkxce/InfoCellGetTowers",
   "permissions": ["webRequest", "webRequestBlocking", "https://infocelltowers.ru/*", "http://infocelltowers.ru/*"],
   "background": {"scripts": ["background.js"]},
-  "browser_specific_settings": {"gecko": {"strict_min_version": "57.0a1"}}
+  "browser_specific_settings": {"gecko": {
+	  "strict_min_version": "57.0a1",
+	  "update_url": "https://raw.githubusercontent.com/dkxce/InfoCellGetTowers/master/updates.json"
+  }}
 }

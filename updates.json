@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "{c6e87521-66b7-4082-84f1-2efd9c7a0514}": {
+      "updates": [
+        {
+          "version": "1.1",
+          "update_link": "https://github.com/dkxce/CellMapperGetTowers/releases/download/v1.1/CellMapperGetTowers_v1.1.xpi"
+		}
+      ]
+    }
+  }
+}
